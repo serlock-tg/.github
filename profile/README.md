@@ -1,4 +1,4 @@
-# 🔍 Шерлок Бот — Telegram бот для пробива и поиска информации
+# 🔍 Шерлок ТГ — Telegram бот для пробива и поиска информации
 
 [![Перейти к боту](https://img.shields.io/badge/Telegram-Шерлок%20Бот-blue?style=for-the-badge&logo=telegram)](https://serlock-bot.org/)
 
